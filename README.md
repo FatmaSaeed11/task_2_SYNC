@@ -1,2 +1,2 @@
-# SYNC_Task_2
+# task_2_SYNC
 Face Mask Detection
